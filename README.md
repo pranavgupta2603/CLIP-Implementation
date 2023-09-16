@@ -2,4 +2,4 @@
 
 The ```clip train.pynb``` file contains the code to train a simple CLIP model for zero-shot recognition.
 
-I used (Hi)[https://github.com/moein-shariatnia/OpenAI-CLIP]
+I used [https://github.com/moein-shariatnia/OpenAI-CLIP]
